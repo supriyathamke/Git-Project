@@ -1,0 +1,10 @@
+This is my first Git file.
+This file is edited for staging example.
+Main and Feature both merged
+main branch
+hotfix
+feature branch
+This is my Git practical file.
+This line is added from GitHub.
+This update is added for collaboration practical.
+This update is added for collaboration practical.
