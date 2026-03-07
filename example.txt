@@ -2,3 +2,4 @@ This is my first Git file.
 This file is edited for staging example.
 editing this file for branching practical
 making change
+hello
